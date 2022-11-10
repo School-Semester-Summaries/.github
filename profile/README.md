@@ -3,6 +3,9 @@ In this organisation you can see what I've delivered per semester.
 
 ![logo-purple-nl](https://user-images.githubusercontent.com/74303221/201209216-d3bfa414-19ac-4c79-80c1-fa27c0a975cf.png)
 
+# Preface
+So HBO-ICT consists of 8 semesters. To pass a semester you have to touch all the learning outcomes. The way you do this doesn't really matter as long as you keep good contact with your teachers and ask active feedback. Here's a quick terminology so you won't get lost later on.
+
 # [Semester 1 - Media](https://github.com/School-Semester-Summaries/media-semester-1)
 My first semester on ICT. In this semester I followed 5 subject: Software, Business, Infrastructure, Technology, Media. I made one bigger project this semester -> [Letter Sprong](https://github.com/School-Semester-Summaries/media-semester-1/tree/master/Media)
 
