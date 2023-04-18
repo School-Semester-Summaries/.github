@@ -33,6 +33,6 @@ In semester 3 we had to make a portfolio. So the entire page you see there, That
 **Grade: Good**
 
 # [Semester 4 - Artifical intelligence](https://github.com/School-Semester-Summaries/AI-semester-4)
-For semester 4 I chose the specialisation AI. You might be wondering why I didn't choose game-design. But the future in game-design isn't that big and I see it more as a hobby thing. In this semester I made my first steps into AI. Topics you can find back are Machine Learning, Reinforcement Learning, Classification, Object Detection, Object Tracking, API, Python, Jupyter-Notebook. Noticeable projects I made this semester -> [Brawlhalla Legend Classification](https://github.com/School-Semester-Summaries/AI-semester-4/tree/main/Individual%20Projects/Brawlhalla%20Legend%20Classification), [Cart Pole Game](https://github.com/School-Semester-Summaries/AI-semester-4/tree/main/Open%20Program)
+For semester 4 I chose the specialisation AI. You might be wondering why I didn't choose game-design. But the future in game-design isn't that big and I see it more as a hobby thing. In this semester I made my first steps into AI. Topics you can find back are Machine Learning, Reinforcement Learning, Classification, Object Detection, Object Tracking, API, Python, Jupyter-Notebook. Noticeable projects I made this semester -> [Brawlhalla Legend Classification](https://github.com/CrossyChainsaw/Brawlhalla-Legend-Classification), [Cart Pole Game](https://github.com/School-Semester-Summaries/AI-semester-4/tree/main/Open%20Program)
 
 **Grade: Good**
