@@ -37,5 +37,5 @@ For semester 4 I chose the specialisation AI. You might be wondering why I didn'
 
 **Grade: Good**
 
-# [Semester 5 - Software Internship](https://github.com/CrossyChainsaw/Autotechniek-Level-Editor)
+# [Semester 5 - Software Internship](https://github.com/School-Semester-Summaries/Semester-5-Software-Internship)
 Current Semester
