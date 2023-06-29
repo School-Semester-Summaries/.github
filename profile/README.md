@@ -38,4 +38,6 @@ For semester 4 I chose the specialisation AI. You might be wondering why I didn'
 **Grade: Good**
 
 # [Semester 5 - Software Internship](https://github.com/School-Semester-Summaries/software-internship-semester-5)
-Current Semester
+In this semester I made a Serious Game for PIT (Practoraat Interactief Technologie). This game prepares Automotive Students on practical tasks. You will also find a bit of research in this documents. 
+
+**Grade: Satisfactory**
