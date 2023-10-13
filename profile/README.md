@@ -1,7 +1,7 @@
 # School Semester Summaries - Kaan Gögcay
 In this organisation you can see what I've delivered per semester.
 
-![logo-purple-nl](https://user-images.githubusercontent.com/74303221/201209216-d3bfa414-19ac-4c79-80c1-fa27c0a975cf.png)
+![image](https://github.com/School-Semester-Summaries/.github/assets/74303221/23f504e4-5084-49bc-91a6-7a467df7cb79)
 
 # Preface
 So HBO-ICT consists of 8 semesters. To pass a semester you have to touch all the learning outcomes. The way you do this doesn't really matter as long as you keep good contact with your teachers and ask active feedback. Here's a quick terminology so you won't get lost later on.
