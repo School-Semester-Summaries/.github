@@ -1,4 +1,4 @@
-# School Semester Summaries - Kaan Gögcay
+# School Semester Summaries - Kaan G.
 In this organisation you can see what I've delivered per semester.
 
 ![image](https://github.com/School-Semester-Summaries/.github/assets/74303221/23f504e4-5084-49bc-91a6-7a467df7cb79)
