@@ -23,7 +23,7 @@ a few weeks into semester 2 Media I decided it was nothing for me. I wanted to d
 **Grade: Outstanding**
 
 # [Semester 2 - Software](https://github.com/School-Semester-Summaries/software-semester-2)
-Software semester 2 is usually referred to as the hardest semester of the study. Topics mentioned in this semester are: databases, MVC project (and the layer structure), Unit Testing, Lots of documentation, Algorithms. A noticeable project I made this semester is -> [CircusTrein](https://github.com/CrossyChainsaw/CircusTrein) 
+Software semester 2 is usually referred to as the hardest semester of the study. Topics mentioned in this semester are: databases, MVC project (and the layer structure), Unit Testing, Lots of documentation, Algorithms. A noticeable project I made this semester is -> [CircusTrein](https://github.com/School-Semester-Summaries/software-semester-2/tree/main/semester-2-repository/CircusTrein) 
 
 **Grade: Good**
 
