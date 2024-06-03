@@ -46,3 +46,8 @@ In this semester I made a Serious Game for PIT (Practoraat Interactief Technolog
 MRR-Drones, Brawlhalla-Bot, All Exercises, Data-Challange, WIP...
 
 **Grade: Good**
+
+# [Semester 7 - Artifical intelligence Advanced (WIP)](https://github.com/School-Semester-Summaries/AI-semester-6)
+...
+
+**Grade: Unsatisfactory**
