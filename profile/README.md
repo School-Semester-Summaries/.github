@@ -47,7 +47,7 @@ MRR-Drones, Brawlhalla-Bot, All Exercises, Data-Challange, WIP...
 
 **Grade: Good**
 
-# [Semester 7 - Artifical intelligence Advanced (WIP)](https://github.com/School-Semester-Summaries/AI-semester-6)
+# [Semester 7 - Software Advanced (WIP)]()
 ...
 
 **Grade: Unsatisfactory**
