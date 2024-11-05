@@ -49,4 +49,5 @@ This semester is the sequel to semester 4. It was the most fun semester I have d
 
 # [Semester 7 - Software Advanced](https://github.com/School-Semester-Summaries/software-semester-7/tree/main)
 I failed 😔
+
 **Grade: Unsatisfactory**
