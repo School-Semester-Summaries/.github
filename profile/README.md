@@ -51,3 +51,8 @@ This semester is the sequel to semester 4. It was the most fun semester I have d
 I failed 😔
 
 **Grade: Unsatisfactory**
+
+# [Semester 7 (2) - Software Advanced](https://github.com/School-Semester-Summaries/software-semester-7-v2)
+I Succeeded (WIP)
+
+**Grade: Good**
