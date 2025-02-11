@@ -52,7 +52,7 @@ I failed 😔
 
 **Grade: Unsatisfactory**
 
-# [Semester 7 (2) - Software Advanced](https://github.com/School-Semester-Summaries/software-semester-7-v2)
+# [Semester 7 (2) - Software Advanced](https://github.com/School-Semester-Summaries/software-semester-7-v2) (w.i.p.)
 I Succeeded (WIP)
 
 **Grade: Good**
