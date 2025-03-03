@@ -58,4 +58,4 @@ This semesester feels like a harder version of semester 3. Boring but usefull se
 **Grade: Good**
 
 # [Semester 8 - Graduation Internship: Artificial Intelligence] (w.i.p.)
-Very cool side project: [BrawlTCG-alpha](https://github.com/CrossyChainsaw/BrawlTCG-alpha)
+Very cool side project -> [BrawlTCG-alpha](https://github.com/CrossyChainsaw/BrawlTCG-alpha)
