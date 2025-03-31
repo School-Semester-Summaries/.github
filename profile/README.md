@@ -40,7 +40,7 @@ For semester 4 I chose the specialisation AI. You might be wondering why I didn'
 # [Semester 5 - Software Internship](https://github.com/School-Semester-Summaries/software-internship-semester-5)
 In this semester I made a Serious Game for PIT (Practoraat Interactief Technologie). This game prepares Automotive Students on practical tasks. You will also find a bit of research in this documents. I am not proud of anything I made this semester.
 
-**Grade: Satisfactory**
+**Grade: Good**
 
 # [Semester 6 - Artifical intelligence Advanced](https://github.com/School-Semester-Summaries/AI-semester-6)
 This semester is the sequel to semester 4. It was the most fun semester I have done. You learn about AI, such as ANN, CNN, RL, XAI. Noteable projects I made during this semester -> [brawl-template-matcher](https://github.com/CrossyChainsaw/brawl-template-matcher), [GeoGuessr Hood Edition](https://eindhovendatastories.streamlit.app/Geoguessr_Kaan_Gogcay_(Forked))
