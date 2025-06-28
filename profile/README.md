@@ -43,7 +43,7 @@ In this semester I made a Serious Game for PIT (Practoraat Interactief Technolog
 **Grade: Good**
 
 # [Semester 6 - Artifical intelligence Advanced](https://github.com/School-Semester-Summaries/AI-semester-6)
-This semester is the sequel to semester 4. It was the most fun semester I have done. You learn about AI, such as ANN, CNN, RL, XAI. Noteable projects I made during this semester -> [brawl-template-matcher](https://github.com/CrossyChainsaw/brawl-template-matcher), [GeoGuessr Hood Edition](https://eindhovendatastories.streamlit.app/Geoguessr_Kaan_Gogcay_(Forked))
+This semester is the sequel to semester 4. It was the most fun semester I have done. You learn about AI, such as ANN, CNN, RL, XAI. Notable projects I made during this semester -> [brawl-template-matcher](https://github.com/CrossyChainsaw/brawl-template-matcher), [GeoGuessr Hood Edition](https://eindhovendatastories.streamlit.app/Geoguessr_Kaan_Gogcay_(Forked))
 
 **Grade: Good**
 
