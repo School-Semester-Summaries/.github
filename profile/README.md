@@ -12,7 +12,7 @@ So HBO-ICT consists of 8 semesters. To pass a semester you have to touch all the
 
 **Learning Outcome**: A certain skill you need to learn before the end of the semester. A semester has multiple learning outcomes.
 
-# [Semester 1 - Media](https://github.com/School-Semester-Summaries/media-semester-1) (w.i.p.)
+# [Semester 1 - Media](https://github.com/School-Semester-Summaries/media-semester-1)
 My first semester on ICT. In this semester I followed 5 subject: Software, Business, Infrastructure, Technology and Media. One project I made was rather bigger than the others -> [Letter Sprong](https://github.com/School-Semester-Summaries/media-semester-1/tree/master/Media)
 
 **Grade: Satisfactory**
