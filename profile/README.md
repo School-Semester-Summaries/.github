@@ -17,7 +17,7 @@ My first semester on ICT. In this semester I followed 5 subject: Software, Busin
 
 **Grade: Satisfactory**
 
-# [Semester 1 - Software](https://github.com/School-Semester-Summaries/software-semester-1) (w.i.p.)
+# [Semester 1 - Software](https://github.com/School-Semester-Summaries/software-semester-1)
 a few weeks into semester 2 Media I decided it was nothing for me. I wanted to do software, but to switch to software, I had to pass software semester 1. In this semester 1 I only followed software. Since I already understood the basics of coding and spent quite some time in my vacation on coding, this semester was quite easy. Noticeable projects I made are -> [BattleSim](https://github.com/CrossyChainsaw2/BattleSim), [DinoGame](https://github.com/CrossyChainsaw2/DinoGame)
 
 **Grade: Outstanding**
