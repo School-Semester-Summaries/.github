@@ -52,7 +52,7 @@ I failed 😔
 
 **Grade: Unsatisfactory**
 
-# [Semester 7 (2) - Software Advanced](https://github.com/School-Semester-Summaries/software-semester-7-v2) (w.i.p.)
+# [Semester 7 (2) - Software Advanced](https://github.com/School-Semester-Summaries/software-semester-7-v2)
 This semesester feels like a harder version of semester 3. Boring but usefull semester. Noteable projects I made during this semester -> https://malhalla.nl (expires 19/11/2025)
 
 **Grade: Good**
