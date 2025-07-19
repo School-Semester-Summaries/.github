@@ -1,5 +1,5 @@
 # School Semester Summaries - Kaan G.
-In this organisation you can see what I've delivered per semester.
+In this organisation you can read what I've delivered per semester.
 
 [![image](https://github.com/School-Semester-Summaries/.github/assets/74303221/23f504e4-5084-49bc-91a6-7a467df7cb79)](https://www.fontys.nl/Studeren/Opleidingen/HBO-ICT.htm?gad_source=1&gclid=CjwKCAiA29auBhBxEiwAnKcSqki4saoduiyfUj2EHe55DqNtpTq-DetbwwkLpvwcyZEauMI4V8R21BoCfmwQAvD_BwE)
 
