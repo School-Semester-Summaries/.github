@@ -1,5 +1,5 @@
 # School Semester Summaries - Kaan G.
-In this organisation you can read what I've delivered per semester.
+In this organisation you can read how I managed to graduate with an average of an 8.3
 
 [![image](https://github.com/School-Semester-Summaries/.github/assets/74303221/23f504e4-5084-49bc-91a6-7a467df7cb79)](https://www.fontys.nl/Studeren/Opleidingen/HBO-ICT.htm?gad_source=1&gclid=CjwKCAiA29auBhBxEiwAnKcSqki4saoduiyfUj2EHe55DqNtpTq-DetbwwkLpvwcyZEauMI4V8R21BoCfmwQAvD_BwE)
 
@@ -11,6 +11,14 @@ So HBO-ICT consists of 8 semesters. To pass a semester you have to touch all the
 **Semester**: 6 months of school
 
 **Learning Outcome**: A certain skill you need to learn before the end of the semester. A semester has multiple learning outcomes.
+
+**Satisfactory (Grade)**: A 6.0
+
+**Good (Grade)**: An 8.0
+
+**Outstanding (Grade)**: A 10.0
+
+
 
 # [Semester 1 - Media](https://github.com/School-Semester-Summaries/media-semester-1)
 My first semester on ICT. In this semester I followed 5 subject: Software, Business, Infrastructure, Technology and Media. One project I made was rather bigger than the others -> [Letter Sprong](https://github.com/School-Semester-Summaries/media-semester-1/tree/master/Media)
