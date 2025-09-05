@@ -63,3 +63,12 @@ This semester feels like a harder version of semester 3. Boring but usefull seme
 In this semester I worked on an application that can turn financial client data into a financial explainer video. Those videos are suposed to help the client understand their financial products and activate the client to take actions that can optimize their financial situation. Very cool side project I worked on -> [BrawlTCG-alpha](https://github.com/CrossyChainsaw/BrawlTCG-alpha)
 
 **Grade: Good (8.0)**
+
+
+
+---
+W.i.p.
+Master applied artificial intelligence
+# [Semester 1 - MAAI]
+...
+
