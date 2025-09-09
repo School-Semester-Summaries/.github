@@ -9,7 +9,7 @@ read how I managed to graduate with an average of an 8.3
 [![image](https://github.com/School-Semester-Summaries/.github/assets/74303221/23f504e4-5084-49bc-91a6-7a467df7cb79)](https://www.fontys.nl/Studeren/Opleidingen/HBO-ICT.htm?gad_source=1&gclid=CjwKCAiA29auBhBxEiwAnKcSqki4saoduiyfUj2EHe55DqNtpTq-DetbwwkLpvwcyZEauMI4V8R21BoCfmwQAvD_BwE)
 
 # Preface
-So HBO-ICT consists of 8 semesters. To pass a semester you have to touch all the learning outcomes. The way you do this doesn't really matter as long as you keep good contact with your teachers and ask active feedback. Here's a quick terminology so you won't get lost later on.
+So HBO-ICT consists of 8 semesters. To pass a semester you have to satisfy all the learning outcomes. The way you do this doesn't really matter as long as you keep good contact with your teachers and ask active feedback. Here's a quick terminology so you won't get lost later on.
 
 ### Terminology
 
