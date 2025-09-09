@@ -4,7 +4,7 @@ In this organisation you can read everything I've done in my studies.
 - [Hogeschool van Asmterdam: Master Applied Artificial Intelligence](#hogeschool-van-asmterdam-master-applied-artificial-intelligence)
 
 # Fontys Hogeschool: HBO-ICT
-In this organisation you can read how I managed to graduate with an average of an 8.3
+read how I managed to graduate with an average of an 8.3
 
 [![image](https://github.com/School-Semester-Summaries/.github/assets/74303221/23f504e4-5084-49bc-91a6-7a467df7cb79)](https://www.fontys.nl/Studeren/Opleidingen/HBO-ICT.htm?gad_source=1&gclid=CjwKCAiA29auBhBxEiwAnKcSqki4saoduiyfUj2EHe55DqNtpTq-DetbwwkLpvwcyZEauMI4V8R21BoCfmwQAvD_BwE)
 
