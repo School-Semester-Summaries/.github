@@ -69,6 +69,6 @@ In this semester I worked on an application that can turn financial client data 
 ---
 W.i.p.
 Master applied artificial intelligence
-# [Semester 1 - MAAI]
+# [Semester 1 - MAAI](https://github.com/School-Semester-Summaries/MAAI-S1)
 ...
 
