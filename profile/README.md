@@ -72,7 +72,10 @@ In this semester I worked on an application that can turn financial client data 
 
 
 ---
-# Hogeschool van Asmterdam: Master Applied Artificial Intelligence 
+# Hogeschool van Amsterdam: Master Applied Artificial Intelligence 
+
+<img width="2018" height="386" alt="image" src="https://github.com/user-attachments/assets/2342954b-4ed0-4cb4-a8bf-7b6a6a3f493b" />
+
 Master applied artificial intelligence
 # [Semester 1 - MAAI](https://github.com/School-Semester-Summaries/MAAI-S1)
 ...
