@@ -1,7 +1,7 @@
 # School Semester Summaries - Kaan G.
 In this organisation you can read everything I've done in my studies.
 - [Fontys Hogeschool: HBO-ICT](#fontys-hogeschool-hbo-ict)
-- [Hogeschool van Asmterdam: Master Applied Artificial Intelligence](#hogeschool-van-asmterdam-master-applied-artificial-intelligence)
+- [Hogeschool van Ammterdam: Master Applied Artificial Intelligence](#hogeschool-van-amsterdam-master-applied-artificial-intelligence)
 
 # Fontys Hogeschool: HBO-ICT
 read how I managed to graduate with an average of an 8.3
