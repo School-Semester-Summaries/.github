@@ -80,3 +80,7 @@ Master applied artificial intelligence
 # [Semester 1 - MAAI](https://github.com/School-Semester-Summaries/MAAI-S1)
 ...
 
+Master applied artificial intelligence
+# [Semester 2 - MAAI](https://github.com/School-Semester-Summaries/MAAI-S2)
+...
+
