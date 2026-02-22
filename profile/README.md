@@ -79,6 +79,7 @@ In this semester I worked on an application that can turn financial client data 
 Master applied artificial intelligence
 # [Semester 1 - MAAI](https://github.com/School-Semester-Summaries/MAAI-S1)
 This semester I worked on an face-age detection system, text-simplification model, language classifier, text-translation model and many smaller exercises related to statistics and modelling. Favourite projects I worked on this semester -> ...
+
 **Grade: Op Niveau (6.0)**
 
 Master applied artificial intelligence
